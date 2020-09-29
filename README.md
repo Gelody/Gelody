@@ -1,4 +1,4 @@
-### " Hi there, I'm Angelo 🍀 "
+## " Hi there, I'm Angelo 🍀 "
 
 <p> 👤 I’m Front-End Developer </p>
 <p> 🔍 Interested in design as well </p>
